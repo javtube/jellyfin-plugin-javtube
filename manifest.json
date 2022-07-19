@@ -1,0 +1,45 @@
+[
+  {
+    "guid": "01cc53ec-c415-4108-bbd4-a684a9801a32",
+    "name": "JavTube",
+    "description": "Just Another Video Tube Plugin for Jellyfin/Emby.",
+    "overview": "Just Another Video Tube Plugin for Jellyfin/Emby.",
+    "owner": "JavTube",
+    "category": "Metadata",
+    "imageUrl": "https://raw.githubusercontent.com/javtube/jellyfin-plugin-javtube/main/Jellyfin.Plugin.JavTube/thumb.png",
+    "versions": [
+      {
+        "checksum": "2d5f1fa9b6db239764e15e1d0bc3767f",
+        "changelog": "Auto Released by Actions",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/javtube/jellyfin-plugin-javtube/releases/download/v2022.719.1120.0/Jellyfin.JavTube@v2022.719.1120.0.zip",
+        "timestamp": "2022-07-19T11:21:03Z",
+        "version": "2022.719.1120.0"
+      },
+      {
+        "checksum": "4fc234bf75693510a191738a90a05e1d",
+        "changelog": "Auto Released by Actions",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/javtube/jellyfin-plugin-javtube/releases/download/v2022.711.1150.0/Jellyfin.JavTube@v2022.711.1150.0.zip",
+        "timestamp": "2022-07-11T11:50:37Z",
+        "version": "2022.711.1150.0"
+      },
+      {
+        "checksum": "a071ef6e04a421ff5876e1f19768a63f",
+        "changelog": "Auto Released by Actions",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/javtube/jellyfin-plugin-javtube/releases/download/v2022.703.831.0/Jellyfin.JavTube@v2022.703.831.0.zip",
+        "timestamp": "2022-07-03T08:31:16Z",
+        "version": "2022.703.831.0"
+      },
+      {
+        "checksum": "6f5dcebc1f553b80d372b9eaedea75a2",
+        "changelog": "Auto Released by Actions",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/javtube/jellyfin-plugin-javtube/releases/download/v2022.622.1459.0/Jellyfin.JavTube@v2022.622.1459.0.zip",
+        "timestamp": "2022-06-22T14:59:43Z",
+        "version": "2022.622.1459.0"
+      }
+    ]
+  }
+]
